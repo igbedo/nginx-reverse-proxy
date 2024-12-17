@@ -1,0 +1,2 @@
+This is a simple illustration of how to use reverse proxy. We have the frontend/reverse-proxy app running nginx configured for reverse-proxy and then
+the backend consisting of a simple fast-api application. Since I got this working, the idea would be to apply it to a bigger project like lms-microservices

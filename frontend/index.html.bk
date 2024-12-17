@@ -1,0 +1,4 @@
+<h1> Hey, Welcome to Nginx Reverse Proxy </h1>
+Here are the API endpoints
+
+<a href="http://localhost:8081/docs">The API Endpoint</a>
